@@ -32,7 +32,7 @@ We performed a "Leave-One-Out" style removal experiment to observe how the model
 | Fraction Removed | Strategy | Recall@20 | Performance Change |
 | :--- | :--- | :--- | :--- |
 | 0% | Baseline | 0.1665 | - |
-| 1% | **Remove LOW (Harmful)** | **0.1670** | 📈 **Improvement** |
+| 1% | **Remove LOW (Harmful)** | **0.1670** |  **Improvement** |
 | 1% | Random Removal | 0.1666 | Neutral |
 | 1% | **Remove HIGH (Gold)** | 0.1670* | Neutral (at 1% threshold) |
 
